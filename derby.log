@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Sep 17 17:05:58 IST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-016d-3f01-f855-000007e16db0 
+on database directory memory:/home/rakhi/IdeaProjects/myprojectdata/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/home/rakhi/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Ubuntu
+java.runtime.version=11.0.4+11-post-Ubuntu-1ubuntu218.04.3
+user.dir=/home/rakhi/IdeaProjects/myprojectdata
+os.name=Linux
+os.arch=amd64
+os.version=4.15.0-62-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Sep 17 18:04:36 IST 2019:
+Shutting down instance a816c00e-016d-3f01-f855-000007e16db0 on database directory memory:/home/rakhi/IdeaProjects/myprojectdata/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
